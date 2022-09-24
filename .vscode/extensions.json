@@ -1,0 +1,28 @@
+{
+    "recommendations": [
+      "editorconfig.editorconfig",
+      "alefragnani.bookmarks",
+      "formulahendry.auto-rename-tag",
+      "formulahendry.auto-close-tag",
+      "adpyke.codesnap",
+      "vmsynkov.colonize",
+      "dbaeumer.vscode-eslint",
+      "mhutchie.git-graph",
+      "donjayamanne.githistory",
+      "ms-ceintl.vscode-language-pack-ja",
+      "oderwat.indent-rainbow",
+      "wix.vscode-import-cost",
+      "kisstkondoros.vscode-gutter-preview",
+      "vincaslt.highlight-matching-tag",
+      "pkief.material-icon-theme",
+      "fallenmax.mithril-emmet",
+      "christian-kohler.path-intellisense",
+      "bmewburn.vscode-intelephense-client",
+      "esbenp.prettier-vscode",
+      "ducfilan.pug-formatter",
+      "shopify.theme-check-vscode",
+      "stylelint.vscode-stylelint",
+      "mikeburgh.xml-format",
+      "christian-kohler.npm-intellisense"
+    ]
+  }
